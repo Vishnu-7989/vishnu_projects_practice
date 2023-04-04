@@ -7,3 +7,5 @@ print(a+b)
 print("new lines added in pycharm")
 
 c=100
+
+print("c val: ",c)
